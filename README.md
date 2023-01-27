@@ -1,5 +1,5 @@
 # Impact of COVID-19 on the Indian Stock Market
-## as measured by looking at the performance of a market-weighted index - SENSEX
+## ..as measured by looking at the performance of a market-weighted index - SENSEX
 
 This repo contains shareable parts of the project completed towards fulfilment of requirements for the *Econometrics for Consultants* course, IIMB 2021
 
